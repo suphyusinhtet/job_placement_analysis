@@ -6,7 +6,7 @@ from sklearn.preprocessing import LabelEncoder, MinMaxScaler
 import pickle
 from sklearn.model_selection import train_test_split
 rfmodel= st.sidebar.checkbox('Random Forest')
-url = 'https://github.com/suphyusinhtet/job_placement_analysis/edit/main/job_placement.csv'
+url = 'https://raw.githubusercontent.com/suphyusinhtet/job_placement_analysis/main/job_placement.csv'
 data = pd.read_csv(url)
 
 if rfmodel:

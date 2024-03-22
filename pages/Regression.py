@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 from sklearn.preprocessing import LabelEncoder, MinMaxScaler
-
+import requests
 import pickle
 from sklearn.model_selection import train_test_split
 rfmodel= st.sidebar.checkbox('Random Forest')
@@ -68,9 +68,18 @@ if rfmodel:
             X = data[:, :-1]
             Y = data[:, -1]
             # load model
-            filename = 'randon_forest_model.sav'
-            loaded_model = pickle.load(open(filename, "rb"))
+            url = 'https://raw.githubusercontent.com/suphyusinhtet/job_placement_analysis/main/randon_forest_model.sav'
+            # loaded_model = pickle.load(open(filename, "rb"))
+            # Download the pickle file
+            response = requests.get(url)
             
+            # Check if the request was successful
+            if response.status_code == 200:
+                # Load the pickle file
+                loaded_model = pickle.loads(response.content)
+            else:
+                # Handle the case when the request fails
+                print("Failed to download the pickle file")
             
             predicted_salary = loaded_model.predict(features)
             combined_data = np.concatenate((features, predicted_salary.reshape(-1, 1)), axis=1)

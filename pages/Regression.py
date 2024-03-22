@@ -68,7 +68,7 @@ if rfmodel:
             X = data[:, :-1]
             Y = data[:, -1]
             # load model
-            filename = 'https://raw.githubusercontent.com/suphyusinhtet/job_placement_analysis/blob/main/randon_forest_model.sav'
+            filename = 'randon_forest_model.sav'
             loaded_model = pickle.load(open(filename, "rb"))
             
             

@@ -8,18 +8,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import plotly.express as px
 
-from sklearn.preprocessing import LabelEncoder, MinMaxScaler
-from imblearn.over_sampling import SMOTE
-from sklearn.model_selection import train_test_split
-
-from sklearn.tree import DecisionTreeClassifier
-from sklearn.naive_bayes import GaussianNB
-from sklearn.ensemble import RandomForestClassifier, RandomForestRegressor
-from sklearn.ensemble import AdaBoostClassifier, AdaBoostRegressor
-from sklearn.ensemble import GradientBoostingClassifier, GradientBoostingRegressor
-from sklearn.ensemble import ExtraTreesClassifier, ExtraTreesRegressor
-from sklearn.linear_model import LinearRegression, LogisticRegression
-from xgboost import XGBClassifier, XGBRegressor
+from sklearn.preprocessing import LabelEncoder
 
 from sklearn.metrics import accuracy_score, classification_report, confusion_matrix, mean_squared_error, r2_score, mean_absolute_error
 

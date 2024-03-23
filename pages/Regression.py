@@ -49,14 +49,14 @@ if rfmodel:
 
             # stream_map = {'Computer Science':0, 'Electrical Engineering':1, 'Electronics and Communication':2, 'Information Technology':3, 'Mechanical Engineering':4 }
             # features['stream'] = features['stream'].map(stream_map)
-            st.write(features)
+            # st.write(features)
             placement_map = {'Placed':1, 'Not Placed': 0}
             data['placement_status'] = data['placement_status'].map(placement_map)
             # data['stream'] = data['stream'].map(stream_map)
             data['gender'] = data['gender'].map(gender_map)
         #     ##################################################
             scaler = MinMaxScaler()
-            st.write(data)
+            # st.write(data)
             features_2 = ["gender", "age", "gpa", "years_of_experience"]
             # data_1 = data.loc[data["placement_status"] == 1].values
             data_2 = data.loc[data["placement_status"] == 1, features_2+["salary"]].values
@@ -79,12 +79,12 @@ if rfmodel:
                 # Handle the case when the request fails
                 print("Failed to download the pickle file")
             
-            st.write('Hello')
+            # st.write('Hello')
             predicted_salary = loaded_model.predict(features)
             combined_data = np.concatenate((features, predicted_salary.reshape(-1, 1)), axis=1)
-            st.write(combined_data)
+            # st.write(combined_data)
             a = scaler.inverse_transform(combined_data)
-            st.write(a)
+            # st.write(a)
             # Extract the prediction from the original_combined_data
             original_pred_result = a[:, -1]
             

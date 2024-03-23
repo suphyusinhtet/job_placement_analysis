@@ -79,7 +79,7 @@ if rfmodel:
                 # Handle the case when the request fails
                 print("Failed to download the pickle file")
             
-            
+            st.write('Hello')
             predicted_salary = loaded_model.predict(features)
             combined_data = np.concatenate((features, predicted_salary.reshape(-1, 1)), axis=1)
             st.write(combined_data)

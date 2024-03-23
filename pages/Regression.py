@@ -60,7 +60,7 @@ if rfmodel:
             features_2 = ["gender", "age", "gpa", "years_of_experience"]
             # data_1 = data.loc[data["placement_status"] == 1].values
             data_2 = data.loc[data["placement_status"] == 1, features_2+["salary"]].values
-            st.write(data_2)
+            # st.write(data_2)
             data = scaler.fit_transform(data_2)
             # st.write(data)
             X = data[:, :-1]

@@ -1,0 +1,701 @@
+name,gender,age,degree,stream,college_name,gpa,salary,years_of_experience,placement_status
+Jessica Smith,Male,24,Bachelor's,Computer Science,Carnegie Mellon University,3.8,75000,2,Placed
+James Lee,Female,23,Bachelor's,Computer Science,"University of California, Berkeley",3.7,,,Not Placed
+Sarah Brown,Female,23,Bachelor's,Computer Science,Massachusetts Institute of Technology,3.9,,,Not Placed
+Amanda Lee,Male,24,Bachelor's,Computer Science,University of Chicago,3.8,78000,3,Placed
+Michael Brown,Male,24,Bachelor's,Computer Science,California Institute of Technology,3.4,,,Not Placed
+Jane Martinez,Male,24,Bachelor's,Computer Science,California Institute of Technology,3.7,,,Not Placed
+James Garcia,Female,24,Bachelor's,Computer Science,Massachusetts Institute of Technology,3.5,70500,1,Placed
+David Lee,Male,23,Bachelor's,Computer Science,Harvard University,3.6,71000,1,Placed
+Chris Garcia,Male,24,Bachelor's,Computer Science,Stanford University,3.7,71500,1,Placed
+Michael Garcia,Female,26,Bachelor's,Computer Science,Princeton University,3.8,75000,2,Placed
+James Wilson,Female,25,Bachelor's,Computer Science,University of Michigan,3.8,,,Not Placed
+John Smith,Female,26,Bachelor's,Computer Science,Princeton University,3.8,,,Not Placed
+James Smith,Male,26,Bachelor's,Computer Science,Yale University,3.7,71500,1,Placed
+John Martinez,Male,24,Bachelor's,Computer Science,University of Michigan,3.8,78000,3,Placed
+John Harlan,Female,25,Bachelor's,Computer Science,University of Michigan,3.4,,,Not Placed
+John Hernandez,Male,26,Bachelor's,Computer Science,University of Michigan,3.8,,,Not Placed
+Chris Garcia,Female,25,Bachelor's,Computer Science,California Institute of Technology,3.7,,,Not Placed
+James Lee,Male,24,Bachelor's,Computer Science,Stanford University,3.5,,,Not Placed
+Jane Garcia,Male,24,Bachelor's,Computer Science,Yale University,3.6,,,Not Placed
+Chris Johnson,Male,26,Bachelor's,Computer Science,Yale University,3.6,77000,3,Placed
+Michael Martinez,Male,25,Bachelor's,Computer Science,Massachusetts Institute of Technology,3.4,,,Not Placed
+Jane Garcia,Female,26,Bachelor's,Computer Science,California Institute of Technology,3.9,72500,1,Placed
+John Taylor,Male,23,Bachelor's,Computer Science,Carnegie Mellon University,3.6,77000,3,Placed
+John Harlan,Male,23,Bachelor's,Computer Science,University of Chicago,3.9,,,Not Placed
+David Lee,Female,26,Bachelor's,Computer Science,University of Michigan,3.5,,,Not Placed
+James Brown,Female,24,Bachelor's,Computer Science,Massachusetts Institute of Technology,3.6,74000,2,Placed
+Sarah Brown,Female,25,Bachelor's,Computer Science,California Institute of Technology,3.8,75000,2,Placed
+Michael Taylor,Female,23,Bachelor's,Computer Science,"University of California, Berkeley",3.8,75000,2,Placed
+John Harlan,Male,23,Bachelor's,Computer Science,University of Chicago,3.6,77000,3,Placed
+Sarah Smith,Male,24,Bachelor's,Computer Science,Carnegie Mellon University,3.5,76500,3,Placed
+Chris Hernandez,Male,25,Bachelor's,Computer Science,University of Chicago,3.6,77000,3,Placed
+Jane Taylor,Female,24,Bachelor's,Computer Science,"University of California, Berkeley",3.9,,,Not Placed
+Michael Johnson,Male,25,Bachelor's,Computer Science,California Institute of Technology,3.7,74500,2,Placed
+Sarah Martinez,Male,24,Bachelor's,Computer Science,Princeton University,3.9,,,Not Placed
+John Brown,Male,23,Bachelor's,Computer Science,Carnegie Mellon University,3.9,72500,1,Placed
+John Martinez,Male,23,Bachelor's,Computer Science,University of Chicago,3.5,,,Not Placed
+John Garcia,Male,23,Bachelor's,Computer Science,University of Chicago,3.7,,,Not Placed
+Sarah Martinez,Male,24,Bachelor's,Computer Science,Princeton University,3.8,72000,1,Placed
+Emily Brown,Male,24,Bachelor's,Computer Science,Princeton University,3.8,,,Not Placed
+Chris Harlan,Female,25,Bachelor's,Computer Science,"University of California, Berkeley",3.9,78500,3,Placed
+Emily Martinez,Female,25,Bachelor's,Computer Science,Princeton University,3.4,73000,2,Placed
+Jane Lee,Female,24,Bachelor's,Computer Science,Stanford University,3.5,76500,3,Placed
+John Harlan,Female,25,Bachelor's,Computer Science,Harvard University,3.9,78500,3,Placed
+Emily Garcia,Female,25,Bachelor's,Computer Science,Stanford University,3.7,74500,2,Placed
+John Smith,Female,25,Bachelor's,Computer Science,Carnegie Mellon University,3.5,,,Not Placed
+Michael Lee,Female,23,Bachelor's,Computer Science,Massachusetts Institute of Technology,3.7,74500,2,Placed
+Jessica Wilson,Female,24,Bachelor's,Computer Science,Harvard University,3.5,73500,2,Placed
+Emily Brown,Male,23,Bachelor's,Computer Science,Yale University,3.8,,,Not Placed
+David Hernandez,Female,25,Bachelor's,Computer Science,Massachusetts Institute of Technology,3.4,76000,3,Placed
+John Smith,Female,26,Bachelor's,Computer Science,"University of California, Berkeley",3.7,,,Not Placed
+James Lee,Female,26,Bachelor's,Computer Science,"University of California, Berkeley",3.5,76500,3,Placed
+Emily Lee,Male,26,Bachelor's,Computer Science,University of Michigan,3.8,,,Not Placed
+Jessica Lee,Female,26,Bachelor's,Computer Science,"University of California, Berkeley",3.5,70500,1,Placed
+Michael Martinez,Male,26,Bachelor's,Computer Science,Harvard University,3.6,71000,1,Placed
+James Smith,Female,23,Bachelor's,Computer Science,Harvard University,3.4,,,Not Placed
+Emily Martinez,Male,26,Bachelor's,Computer Science,"University of California, Berkeley",3.5,70500,1,Placed
+Michael Hernandez,Male,24,Bachelor's,Computer Science,Princeton University,3.8,,,Not Placed
+Emily Brown,Male,26,Bachelor's,Computer Science,University of Michigan,3.5,,,Not Placed
+Sarah Martinez,Male,26,Bachelor's,Computer Science,Stanford University,3.6,74000,2,Placed
+Jane Brown,Male,25,Bachelor's,Computer Science,University of Michigan,3.8,72000,1,Placed
+Emily Harlan,Female,26,Bachelor's,Computer Science,Yale University,3.6,77000,3,Placed
+Michael Lee,Male,24,Bachelor's,Computer Science,Yale University,3.7,,,Not Placed
+John Taylor,Female,24,Bachelor's,Computer Science,Yale University,3.4,,,Not Placed
+Michael Lee,Male,23,Bachelor's,Computer Science,California Institute of Technology,3.7,77500,3,Placed
+Amanda Garcia,Female,24,Bachelor's,Computer Science,California Institute of Technology,3.8,,,Not Placed
+Emily Johnson,Male,26,Bachelor's,Computer Science,Stanford University,3.7,,,Not Placed
+James Brown,Male,25,Bachelor's,Computer Science,"University of California, Berkeley",3.6,77000,3,Placed
+Chris Lee,Male,24,Bachelor's,Computer Science,University of Michigan,3.8,78000,3,Placed
+Emily Taylor,Female,23,Bachelor's,Computer Science,University of Michigan,3.7,71500,1,Placed
+James Harlan,Female,24,Bachelor's,Computer Science,Stanford University,3.9,,,Not Placed
+David Johnson,Male,26,Bachelor's,Computer Science,"University of California, Berkeley",3.5,76500,3,Placed
+Michael Lee,Female,23,Bachelor's,Computer Science,California Institute of Technology,3.9,,,Not Placed
+Amanda Johnson,Female,24,Bachelor's,Computer Science,Harvard University,3.5,70500,1,Placed
+Amanda Lee,Female,24,Bachelor's,Computer Science,University of Chicago,3.8,78000,3,Placed
+Sarah Smith,Male,25,Bachelor's,Computer Science,"University of California, Berkeley",3.9,75500,2,Placed
+Amanda Martinez,Female,23,Bachelor's,Computer Science,Harvard University,3.5,,,Not Placed
+James Martinez,Male,24,Bachelor's,Computer Science,University of Michigan,3.7,,,Not Placed
+Amanda Hernandez,Female,26,Bachelor's,Computer Science,Yale University,3.8,78000,3,Placed
+Emily Wilson,Male,24,Bachelor's,Computer Science,Carnegie Mellon University,3.7,,,Not Placed
+Michael Lee,Female,26,Bachelor's,Computer Science,California Institute of Technology,3.6,71000,1,Placed
+Jessica Wilson,Female,26,Bachelor's,Computer Science,"University of California, Berkeley",3.8,78000,3,Placed
+Michael Harlan,Male,26,Bachelor's,Computer Science,Princeton University,3.6,71000,1,Placed
+Amanda Harlan,Female,26,Bachelor's,Computer Science,University of Michigan,3.9,,,Not Placed
+David Garcia,Male,25,Bachelor's,Computer Science,California Institute of Technology,3.7,77500,3,Placed
+John Taylor,Male,23,Bachelor's,Computer Science,Stanford University,3.5,73500,2,Placed
+Sarah Harlan,Female,26,Bachelor's,Computer Science,California Institute of Technology,3.8,72000,1,Placed
+Jane Martinez,Male,25,Bachelor's,Computer Science,University of Michigan,3.6,77000,3,Placed
+Jessica Smith,Female,25,Bachelor's,Computer Science,University of Chicago,3.6,,,Not Placed
+Jane Harlan,Male,26,Bachelor's,Computer Science,California Institute of Technology,3.4,70000,1,Placed
+James Wilson,Male,26,Bachelor's,Computer Science,Yale University,3.7,,,Not Placed
+James Taylor,Female,26,Bachelor's,Computer Science,Stanford University,3.6,,,Not Placed
+Amanda Harlan,Male,26,Bachelor's,Computer Science,Massachusetts Institute of Technology,3.8,,,Not Placed
+Amanda Wilson,Female,24,Bachelor's,Computer Science,Princeton University,3.6,,,Not Placed
+John Wilson,Male,26,Bachelor's,Computer Science,Massachusetts Institute of Technology,3.4,73000,2,Placed
+Amanda Hernandez,Female,26,Bachelor's,Computer Science,Princeton University,3.7,,,Not Placed
+David Hernandez,Female,25,Bachelor's,Computer Science,Harvard University,3.8,,,Not Placed
+Chris Taylor,Female,24,Bachelor's,Computer Science,Yale University,3.5,,,Not Placed
+Michael Taylor,Male,25,Bachelor's,Computer Science,University of Chicago,3.8,,,Not Placed
+Amanda Hernandez,Male,23,Bachelor's,Computer Science,California Institute of Technology,3.5,,,Not Placed
+David Hernandez,Female,23,Bachelor's,Computer Science,Stanford University,3.4,73000,2,Placed
+Jessica Garcia,Male,24,Bachelor's,Computer Science,Carnegie Mellon University,3.7,,,Not Placed
+Jessica Wilson,Male,24,Bachelor's,Computer Science,Massachusetts Institute of Technology,3.8,,,Not Placed
+Jane Wilson,Female,23,Bachelor's,Computer Science,Carnegie Mellon University,3.8,78000,3,Placed
+Amanda Brown,Female,25,Bachelor's,Computer Science,Princeton University,3.5,70500,1,Placed
+Amanda Hernandez,Female,26,Bachelor's,Computer Science,University of Michigan,3.4,,,Not Placed
+Amanda Garcia,Female,24,Bachelor's,Computer Science,Carnegie Mellon University,3.6,71000,1,Placed
+James Harlan,Male,25,Bachelor's,Computer Science,Yale University,3.8,75000,2,Placed
+Jessica Taylor,Male,26,Bachelor's,Computer Science,Stanford University,3.6,,,Not Placed
+James Lee,Female,26,Bachelor's,Computer Science,Princeton University,3.8,72000,1,Placed
+Jessica Lee,Male,25,Bachelor's,Computer Science,California Institute of Technology,3.8,,,Not Placed
+James Martinez,Female,23,Bachelor's,Computer Science,University of Michigan,3.8,78000,3,Placed
+Emily Smith,Male,24,Bachelor's,Computer Science,Massachusetts Institute of Technology,3.8,72000,1,Placed
+Emily Wilson,Male,25,Bachelor's,Computer Science,"University of California, Berkeley",3.9,75500,2,Placed
+Jane Brown,Male,25,Bachelor's,Computer Science,University of Chicago,3.7,,,Not Placed
+Michael Johnson,Female,26,Bachelor's,Computer Science,"University of California, Berkeley",3.5,70500,1,Placed
+Sarah Brown,Male,26,Bachelor's,Computer Science,California Institute of Technology,3.7,,,Not Placed
+John Johnson,Female,25,Bachelor's,Computer Science,Yale University,3.8,,,Not Placed
+Sarah Hernandez,Female,26,Bachelor's,Computer Science,"University of California, Berkeley",3.7,,,Not Placed
+James Lee,Female,25,Bachelor's,Computer Science,Princeton University,3.8,,,Not Placed
+Chris Taylor,Female,26,Bachelor's,Computer Science,California Institute of Technology,3.6,77000,3,Placed
+Jane Garcia,Female,24,Bachelor's,Computer Science,Carnegie Mellon University,3.5,70500,1,Placed
+Chris Hernandez,Male,26,Bachelor's,Computer Science,Harvard University,3.7,,,Not Placed
+Emily Martinez,Male,24,Bachelor's,Computer Science,University of Chicago,3.5,,,Not Placed
+John Martinez,Male,26,Bachelor's,Computer Science,Massachusetts Institute of Technology,3.5,,,Not Placed
+Michael Garcia,Male,25,Bachelor's,Computer Science,Carnegie Mellon University,3.6,,,Not Placed
+Michael Brown,Male,24,Bachelor's,Computer Science,Carnegie Mellon University,3.6,,,Not Placed
+Michael Brown,Female,26,Bachelor's,Computer Science,Carnegie Mellon University,3.9,,,Not Placed
+James Hernandez,Male,24,Bachelor's,Computer Science,Carnegie Mellon University,3.7,,,Not Placed
+Emily Hernandez,Male,23,Bachelor's,Computer Science,Carnegie Mellon University,3.7,,,Not Placed
+Sarah Garcia,Female,26,Bachelor's,Computer Science,Stanford University,3.5,76500,3,Placed
+David Martinez,Female,23,Bachelor's,Computer Science,Harvard University,3.8,78000,3,Placed
+Sarah Lee,Male,26,Bachelor's,Computer Science,"University of California, Berkeley",3.8,75000,2,Placed
+John Lee,Female,26,Bachelor's,Computer Science,Stanford University,3.7,71500,1,Placed
+John Brown,Male,24,Bachelor's,Computer Science,Massachusetts Institute of Technology,3.4,,,Not Placed
+John Taylor,Male,23,Bachelor's,Computer Science,University of Chicago,3.6,71000,1,Placed
+James Taylor,Male,26,Bachelor's,Computer Science,Stanford University,3.8,,,Not Placed
+Jane Smith,Male,25,Bachelor's,Computer Science,Princeton University,3.5,,,Not Placed
+Michael Hernandez,Male,23,Bachelor's,Computer Science,University of Michigan,3.6,77000,3,Placed
+David Hernandez,Male,23,Bachelor's,Computer Science,University of Chicago,3.6,71000,1,Placed
+John Hernandez,Male,25,Bachelor's,Computer Science,California Institute of Technology,3.5,,,Not Placed
+Jessica Brown,Male,26,Bachelor's,Computer Science,California Institute of Technology,3.5,,,Not Placed
+Amanda Brown,Female,26,Bachelor's,Computer Science,California Institute of Technology,3.7,,,Not Placed
+Chris Lee,Female,25,Bachelor's,Computer Science,Princeton University,3.9,,,Not Placed
+Chris Wilson,Female,25,Bachelor's,Computer Science,University of Michigan,3.7,77500,3,Placed
+Emily Lee,Male,24,Bachelor's,Computer Science,Yale University,3.7,,,Not Placed
+Sarah Lee,Female,24,Bachelor's,Computer Science,Princeton University,3.8,,,Not Placed
+Michael Hernandez,Female,24,Bachelor's,Computer Science,Stanford University,3.9,72500,1,Placed
+Chris Taylor,Male,24,Bachelor's,Computer Science,University of Chicago,3.6,71000,1,Placed
+Sarah Harlan,Female,26,Bachelor's,Computer Science,Stanford University,3.9,,,Not Placed
+John Martinez,Male,23,Bachelor's,Computer Science,Princeton University,3.9,78500,3,Placed
+James Lee,Male,23,Bachelor's,Computer Science,Harvard University,3.6,71000,1,Placed
+Chris Taylor,Female,25,Bachelor's,Computer Science,Massachusetts Institute of Technology,3.5,73500,2,Placed
+Jessica Martinez,Male,23,Bachelor's,Computer Science,Princeton University,3.7,,,Not Placed
+Emily Garcia,Female,25,Bachelor's,Computer Science,"University of California, Berkeley",3.6,71000,1,Placed
+David Johnson,Male,25,Bachelor's,Computer Science,Harvard University,3.6,74000,2,Placed
+Michael Garcia,Female,26,Bachelor's,Computer Science,University of Chicago,3.8,,,Not Placed
+Jane Hernandez,Male,23,Bachelor's,Computer Science,Stanford University,3.7,74500,2,Placed
+Jessica Taylor,Female,25,Bachelor's,Computer Science,Stanford University,3.6,77000,3,Placed
+Amanda Smith,Female,23,Bachelor's,Computer Science,Yale University,3.6,,,Not Placed
+Jane Garcia,Female,26,Bachelor's,Computer Science,Yale University,3.8,,,Not Placed
+Jane Wilson,Female,25,Bachelor's,Computer Science,Princeton University,3.8,72000,1,Placed
+Sarah Harlan,Female,24,Bachelor's,Computer Science,University of Chicago,3.4,73000,2,Placed
+Chris Taylor,Female,26,Bachelor's,Computer Science,University of Michigan,3.7,74500,2,Placed
+Chris Hernandez,Male,25,Bachelor's,Computer Science,Carnegie Mellon University,3.5,73500,2,Placed
+Chris Hernandez,Female,26,Bachelor's,Computer Science,Carnegie Mellon University,3.5,70500,1,Placed
+Michael Harlan,Female,24,Bachelor's,Computer Science,"University of California, Berkeley",3.7,77500,3,Placed
+Emily Martinez,Male,26,Bachelor's,Computer Science,Stanford University,3.8,,,Not Placed
+Chris Johnson,Female,26,Bachelor's,Computer Science,Yale University,3.8,,,Not Placed
+David Taylor,Female,26,Bachelor's,Computer Science,"University of California, Berkeley",3.6,71000,1,Placed
+Sarah Hernandez,Female,26,Bachelor's,Computer Science,California Institute of Technology,3.8,,,Not Placed
+Amanda Brown,Male,25,Bachelor's,Computer Science,Massachusetts Institute of Technology,3.4,76000,3,Placed
+Sarah Lee,Female,26,Bachelor's,Computer Science,Massachusetts Institute of Technology,3.4,73000,2,Placed
+John Wilson,Female,23,Bachelor's,Computer Science,Yale University,3.5,73500,2,Placed
+Sarah Martinez,Female,26,Bachelor's,Computer Science,Massachusetts Institute of Technology,3.6,,,Not Placed
+Chris Taylor,Male,25,Bachelor's,Computer Science,University of Michigan,3.8,78000,3,Placed
+David Wilson,Female,25,Bachelor's,Computer Science,California Institute of Technology,3.4,70000,1,Placed
+David Harlan,Female,23,Bachelor's,Computer Science,Harvard University,3.6,77000,3,Placed
+Emily Garcia,Male,26,Bachelor's,Computer Science,Stanford University,3.7,74500,2,Placed
+Chris Martinez,Female,25,Bachelor's,Computer Science,"University of California, Berkeley",3.6,,,Not Placed
+John Lee,Female,26,Bachelor's,Computer Science,Stanford University,3.6,,,Not Placed
+Sarah Taylor,Male,23,Bachelor's,Computer Science,Yale University,3.5,70500,1,Placed
+Jane Johnson,Female,24,Bachelor's,Computer Science,"University of California, Berkeley",3.6,71000,1,Placed
+David Harlan,Male,25,Bachelor's,Computer Science,Stanford University,3.7,74500,2,Placed
+David Lee,Female,26,Bachelor's,Computer Science,Harvard University,3.5,70500,1,Placed
+James Garcia,Male,26,Bachelor's,Computer Science,Stanford University,3.5,73500,2,Placed
+Chris Brown,Male,24,Bachelor's,Computer Science,California Institute of Technology,3.6,,,Not Placed
+Jessica Harlan,Male,23,Bachelor's,Computer Science,Yale University,3.8,75000,2,Placed
+Jessica Martinez,Male,25,Bachelor's,Computer Science,Harvard University,3.6,,,Not Placed
+Sarah Harlan,Female,24,Bachelor's,Computer Science,Stanford University,3.8,78000,3,Placed
+Jessica Smith,Male,23,Bachelor's,Computer Science,"University of California, Berkeley",3.8,,,Not Placed
+Jessica Lee,Male,26,Bachelor's,Computer Science,California Institute of Technology,3.6,,,Not Placed
+Jessica Wilson,Female,26,Bachelor's,Computer Science,Massachusetts Institute of Technology,3.5,,,Not Placed
+David Garcia,Male,26,Bachelor's,Computer Science,Carnegie Mellon University,3.6,74000,2,Placed
+Emily Wilson,Male,23,Bachelor's,Computer Science,Carnegie Mellon University,3.7,71500,1,Placed
+David Garcia,Female,23,Bachelor's,Computer Science,"University of California, Berkeley",3.9,,,Not Placed
+Jessica Garcia,Female,23,Bachelor's,Computer Science,University of Michigan,3.6,,,Not Placed
+Emily Taylor,Female,24,Bachelor's,Computer Science,Carnegie Mellon University,3.7,,,Not Placed
+James Taylor,Female,24,Bachelor's,Computer Science,Harvard University,3.6,77000,3,Placed
+Emily Garcia,Female,26,Bachelor's,Computer Science,Carnegie Mellon University,3.8,75000,2,Placed
+Chris Garcia,Male,23,Bachelor's,Computer Science,Yale University,3.5,,,Not Placed
+Michael Wilson,Male,23,Bachelor's,Computer Science,Massachusetts Institute of Technology,3.6,77000,3,Placed
+Amanda Hernandez,Female,26,Bachelor's,Computer Science,University of Michigan,3.9,,,Not Placed
+Amanda Martinez,Male,26,Bachelor's,Computer Science,Harvard University,3.8,,,Not Placed
+Jessica Lee,Female,26,Bachelor's,Computer Science,California Institute of Technology,3.9,72500,1,Placed
+Jessica Martinez,Male,24,Bachelor's,Computer Science,Yale University,3.8,72000,1,Placed
+Jessica Martinez,Male,24,Bachelor's,Computer Science,California Institute of Technology,3.5,,,Not Placed
+Michael Harlan,Female,25,Bachelor's,Computer Science,University of Chicago,3.8,78000,3,Placed
+John Martinez,Female,23,Bachelor's,Computer Science,California Institute of Technology,3.8,72000,1,Placed
+James Hernandez,Female,23,Bachelor's,Computer Science,Stanford University,3.7,,,Not Placed
+John Smith,Male,23,Bachelor's,Computer Science,Stanford University,3.7,71500,1,Placed
+Michael Garcia,Male,23,Bachelor's,Computer Science,Massachusetts Institute of Technology,3.8,,,Not Placed
+James Wilson,Female,24,Bachelor's,Computer Science,Princeton University,3.5,73500,2,Placed
+John Lee,Female,24,Bachelor's,Computer Science,Carnegie Mellon University,3.7,71500,1,Placed
+Jessica Martinez,Male,26,Bachelor's,Computer Science,Carnegie Mellon University,3.8,,,Not Placed
+Jessica Taylor,Female,24,Bachelor's,Computer Science,Massachusetts Institute of Technology,3.5,76500,3,Placed
+Sarah Brown,Female,25,Bachelor's,Computer Science,Princeton University,3.4,,,Not Placed
+Chris Johnson,Female,24,Bachelor's,Computer Science,Carnegie Mellon University,3.6,,,Not Placed
+John Smith,Male,26,Bachelor's,Computer Science,Harvard University,3.9,78500,3,Placed
+Michael Brown,Male,26,Bachelor's,Computer Science,"University of California, Berkeley",3.7,,,Not Placed
+Jessica Harlan,Male,25,Bachelor's,Computer Science,Princeton University,3.9,,,Not Placed
+Jessica Smith,Female,26,Bachelor's,Computer Science,University of Chicago,3.7,71500,1,Placed
+John Johnson,Male,26,Bachelor's,Computer Science,University of Michigan,3.7,,,Not Placed
+Michael Johnson,Female,23,Bachelor's,Computer Science,Massachusetts Institute of Technology,3.9,72500,1,Placed
+John Harlan,Female,26,Bachelor's,Computer Science,Stanford University,3.8,,,Not Placed
+Chris Hernandez,Female,26,Bachelor's,Computer Science,University of Chicago,3.6,74000,2,Placed
+David Lee,Male,23,Bachelor's,Computer Science,Harvard University,3.9,75500,2,Placed
+John Brown,Male,23,Bachelor's,Computer Science,Yale University,3.4,76000,3,Placed
+Jessica Garcia,Male,23,Bachelor's,Computer Science,University of Michigan,3.4,70000,1,Placed
+Sarah Hernandez,Female,25,Bachelor's,Computer Science,Princeton University,3.5,73500,2,Placed
+Chris Wilson,Female,25,Bachelor's,Computer Science,California Institute of Technology,3.6,,,Not Placed
+Jessica Smith,Male,25,Bachelor's,Computer Science,Stanford University,3.6,,,Not Placed
+Michael Wilson,Female,26,Bachelor's,Computer Science,Stanford University,3.8,78000,3,Placed
+Amanda Taylor,Female,26,Bachelor's,Computer Science,University of Chicago,3.9,78500,3,Placed
+Jessica Hernandez,Male,25,Bachelor's,Computer Science,Stanford University,3.6,74000,2,Placed
+Emily Johnson,Female,25,Bachelor's,Computer Science,Stanford University,3.5,,,Not Placed
+Michael Lee,Female,26,Bachelor's,Computer Science,University of Chicago,3.5,,,Not Placed
+Amanda Brown,Male,24,Bachelor's,Computer Science,Carnegie Mellon University,3.8,,,Not Placed
+Jane Wilson,Male,26,Bachelor's,Computer Science,Carnegie Mellon University,3.4,,,Not Placed
+David Garcia,Female,24,Bachelor's,Computer Science,Massachusetts Institute of Technology,3.5,,,Not Placed
+Jessica Johnson,Female,23,Bachelor's,Computer Science,University of Chicago,3.6,74000,2,Placed
+James Brown,Male,26,Bachelor's,Computer Science,Princeton University,3.7,74500,2,Placed
+James Wilson,Male,26,Bachelor's,Computer Science,"University of California, Berkeley",3.5,,,Not Placed
+Michael Lee,Male,24,Bachelor's,Computer Science,University of Michigan,3.5,70500,1,Placed
+Chris Hernandez,Male,25,Bachelor's,Computer Science,Stanford University,3.7,,,Not Placed
+Michael Smith,Female,26,Bachelor's,Computer Science,California Institute of Technology,3.8,78000,3,Placed
+Jane Martinez,Female,25,Bachelor's,Computer Science,California Institute of Technology,3.4,,,Not Placed
+John Johnson,Female,23,Bachelor's,Computer Science,University of Chicago,3.9,,,Not Placed
+Jessica Johnson,Female,25,Bachelor's,Computer Science,Princeton University,3.4,73000,2,Placed
+Chris Lee,Male,23,Bachelor's,Computer Science,California Institute of Technology,3.5,,,Not Placed
+Jessica Garcia,Male,23,Bachelor's,Computer Science,Carnegie Mellon University,3.7,,,Not Placed
+Emily Harlan,Male,25,Bachelor's,Computer Science,California Institute of Technology,3.6,74000,2,Placed
+Chris Wilson,Female,24,Bachelor's,Computer Science,Princeton University,3.6,,,Not Placed
+David Wilson,Female,26,Bachelor's,Computer Science,Princeton University,3.5,76500,3,Placed
+John Garcia,Male,26,Bachelor's,Computer Science,Princeton University,3.4,76000,3,Placed
+Jane Taylor,Female,23,Bachelor's,Computer Science,University of Michigan,3.8,,,Not Placed
+James Garcia,Female,23,Bachelor's,Computer Science,University of Chicago,3.9,78500,3,Placed
+Emily Brown,Female,23,Bachelor's,Computer Science,Yale University,3.9,,,Not Placed
+Chris Johnson,Male,25,Bachelor's,Computer Science,Yale University,3.7,,,Not Placed
+Jane Garcia,Female,24,Bachelor's,Computer Science,"University of California, Berkeley",3.8,,,Not Placed
+Emily Lee,Female,23,Bachelor's,Computer Science,Stanford University,3.5,73500,2,Placed
+Emily Martinez,Male,25,Bachelor's,Computer Science,University of Chicago,3.6,,,Not Placed
+Jane Lee,Female,24,Bachelor's,Computer Science,University of Chicago,3.8,78000,3,Placed
+Jessica Hernandez,Female,24,Bachelor's,Computer Science,California Institute of Technology,3.8,72000,1,Placed
+Jessica Hernandez,Female,23,Bachelor's,Computer Science,California Institute of Technology,3.8,,,Not Placed
+Sarah Martinez,Male,25,Bachelor's,Computer Science,University of Michigan,3.6,,,Not Placed
+Jessica Wilson,Female,26,Bachelor's,Computer Science,California Institute of Technology,3.5,,,Not Placed
+Jessica Wilson,Male,26,Bachelor's,Computer Science,University of Michigan,3.6,,,Not Placed
+Chris Lee,Female,23,Bachelor's,Computer Science,Princeton University,3.5,76500,3,Placed
+James Brown,Male,23,Bachelor's,Computer Science,"University of California, Berkeley",3.6,74000,2,Placed
+Chris Harlan,Female,26,Bachelor's,Computer Science,Carnegie Mellon University,3.5,,,Not Placed
+Emily Hernandez,Male,23,Bachelor's,Computer Science,Carnegie Mellon University,3.8,72000,1,Placed
+Jane Wilson,Male,23,Bachelor's,Computer Science,"University of California, Berkeley",3.6,77000,3,Placed
+Jessica Smith,Male,23,Bachelor's,Computer Science,Carnegie Mellon University,3.6,,,Not Placed
+Jessica Brown,Male,25,Bachelor's,Computer Science,Harvard University,3.4,,,Not Placed
+David Wilson,Male,25,Bachelor's,Computer Science,Yale University,3.6,74000,2,Placed
+James Garcia,Female,25,Bachelor's,Computer Science,Harvard University,3.5,,,Not Placed
+Chris Johnson,Male,24,Bachelor's,Computer Science,California Institute of Technology,3.9,78500,3,Placed
+Amanda Smith,Male,26,Bachelor's,Computer Science,"University of California, Berkeley",3.6,,,Not Placed
+Emily Hernandez,Male,26,Bachelor's,Computer Science,"University of California, Berkeley",3.7,77500,3,Placed
+Jane Harlan,Female,26,Bachelor's,Computer Science,University of Michigan,3.7,,,Not Placed
+Amanda Harlan,Male,24,Bachelor's,Computer Science,"University of California, Berkeley",3.5,76500,3,Placed
+Chris Brown,Female,24,Bachelor's,Computer Science,"University of California, Berkeley",3.8,72000,1,Placed
+David Harlan,Male,24,Bachelor's,Computer Science,Carnegie Mellon University,3.6,71000,1,Placed
+Emily Brown,Male,23,Bachelor's,Computer Science,"University of California, Berkeley",3.9,,,Not Placed
+Jessica Brown,Female,25,Bachelor's,Computer Science,California Institute of Technology,3.7,71500,1,Placed
+Sarah Johnson,Female,25,Bachelor's,Computer Science,University of Michigan,3.9,75500,2,Placed
+John Hernandez,Female,25,Bachelor's,Computer Science,Massachusetts Institute of Technology,3.6,74000,2,Placed
+Emily Brown,Male,24,Bachelor's,Computer Science,University of Michigan,3.6,,,Not Placed
+Michael Smith,Male,24,Bachelor's,Computer Science,Harvard University,3.6,,,Not Placed
+Chris Garcia,Male,23,Bachelor's,Computer Science,Yale University,3.5,,,Not Placed
+Michael Garcia,Female,26,Bachelor's,Computer Science,Harvard University,3.5,70500,1,Placed
+James Lee,Female,25,Bachelor's,Computer Science,"University of California, Berkeley",3.6,,,Not Placed
+Jane Garcia,Male,26,Bachelor's,Computer Science,Stanford University,3.9,,,Not Placed
+Michael Martinez,Male,25,Bachelor's,Computer Science,University of Chicago,3.9,78500,3,Placed
+Jessica Brown,Female,25,Bachelor's,Computer Science,University of Michigan,3.6,,,Not Placed
+Chris Harlan,Male,25,Bachelor's,Computer Science,Carnegie Mellon University,3.8,,,Not Placed
+Amanda Martinez,Female,24,Bachelor's,Computer Science,Yale University,3.7,77500,3,Placed
+Jane Garcia,Male,23,Bachelor's,Computer Science,University of Chicago,3.5,,,Not Placed
+Amanda Harlan,Male,24,Bachelor's,Computer Science,Stanford University,3.4,70000,1,Placed
+Amanda Johnson,Male,23,Bachelor's,Computer Science,Stanford University,3.5,70500,1,Placed
+Chris Taylor,Female,26,Bachelor's,Computer Science,Carnegie Mellon University,3.8,75000,2,Placed
+Amanda Harlan,Male,23,Bachelor's,Computer Science,Yale University,3.8,78000,3,Placed
+Amanda Martinez,Male,24,Bachelor's,Computer Science,Harvard University,3.6,,,Not Placed
+Michael Hernandez,Female,24,Bachelor's,Computer Science,Yale University,3.5,,,Not Placed
+Michael Smith,Male,26,Bachelor's,Computer Science,Yale University,3.6,,,Not Placed
+Michael Harlan,Female,23,Bachelor's,Computer Science,University of Chicago,3.8,,,Not Placed
+Jessica Garcia,Female,25,Bachelor's,Computer Science,California Institute of Technology,3.6,,,Not Placed
+Chris Lee,Male,26,Bachelor's,Computer Science,Massachusetts Institute of Technology,3.7,77500,3,Placed
+David Lee,Male,24,Bachelor's,Computer Science,Massachusetts Institute of Technology,3.6,,,Not Placed
+Sarah Hernandez,Male,24,Bachelor's,Computer Science,Princeton University,3.5,70500,1,Placed
+John Wilson,Female,24,Bachelor's,Computer Science,University of Chicago,3.7,74500,2,Placed
+Sarah Martinez,Male,25,Bachelor's,Computer Science,University of Chicago,3.8,,,Not Placed
+John Garcia,Female,24,Bachelor's,Computer Science,California Institute of Technology,3.5,70500,1,Placed
+Jessica Smith,Female,25,Bachelor's,Computer Science,Yale University,3.4,,,Not Placed
+Emily Brown,Female,26,Bachelor's,Computer Science,University of Michigan,3.6,,,Not Placed
+Jessica Martinez,Female,23,Bachelor's,Computer Science,University of Michigan,3.9,,,Not Placed
+Jessica Hernandez,Female,23,Bachelor's,Computer Science,Yale University,3.5,70500,1,Placed
+Jessica Johnson,Male,23,Bachelor's,Computer Science,University of Michigan,3.5,76500,3,Placed
+Amanda Harlan,Male,24,Bachelor's,Computer Science,Carnegie Mellon University,3.6,77000,3,Placed
+Jane Hernandez,Female,23,Bachelor's,Computer Science,Yale University,3.6,77000,3,Placed
+Chris Smith,Male,26,Bachelor's,Computer Science,University of Michigan,3.6,74000,2,Placed
+James Martinez,Female,23,Bachelor's,Computer Science,University of Michigan,3.6,,,Not Placed
+Amanda Smith,Male,24,Bachelor's,Computer Science,Massachusetts Institute of Technology,3.7,,,Not Placed
+James Garcia,Male,26,Bachelor's,Computer Science,Princeton University,3.7,,,Not Placed
+Jane Brown,Female,26,Bachelor's,Computer Science,Massachusetts Institute of Technology,3.6,74000,2,Placed
+James Lee,Male,23,Bachelor's,Computer Science,University of Chicago,3.8,75000,2,Placed
+Emily Smith,Male,25,Bachelor's,Computer Science,University of Michigan,3.4,,,Not Placed
+Amanda Johnson,Female,23,Bachelor's,Computer Science,Yale University,3.6,,,Not Placed
+Michael Brown,Female,23,Bachelor's,Computer Science,Stanford University,3.8,,,Not Placed
+Michael Johnson,Female,24,Bachelor's,Computer Science,Stanford University,3.8,,,Not Placed
+Jane Harlan,Female,25,Bachelor's,Computer Science,Yale University,3.9,78500,3,Placed
+John Wilson,Male,23,Bachelor's,Computer Science,Harvard University,3.7,77500,3,Placed
+Jane Garcia,Female,24,Bachelor's,Computer Science,Harvard University,3.7,,,Not Placed
+Emily Smith,Female,23,Bachelor's,Computer Science,Stanford University,3.7,,,Not Placed
+Michael Taylor,Male,24,Bachelor's,Computer Science,University of Chicago,3.7,,,Not Placed
+Amanda Martinez,Female,23,Bachelor's,Computer Science,University of Michigan,3.8,,,Not Placed
+David Smith,Female,24,Bachelor's,Computer Science,University of Chicago,3.8,78000,3,Placed
+Emily Harlan,Male,26,Bachelor's,Computer Science,Princeton University,3.6,71000,1,Placed
+Jessica Wilson,Male,23,Bachelor's,Computer Science,"University of California, Berkeley",3.6,74000,2,Placed
+John Martinez,Male,23,Bachelor's,Computer Science,"University of California, Berkeley",3.8,,,Not Placed
+Michael Wilson,Female,26,Bachelor's,Computer Science,University of Chicago,3.9,72500,1,Placed
+Emily Wilson,Male,26,Bachelor's,Computer Science,Yale University,3.6,,,Not Placed
+John Johnson,Male,26,Bachelor's,Computer Science,Harvard University,3.8,72000,1,Placed
+David Smith,Female,24,Bachelor's,Computer Science,Carnegie Mellon University,3.8,72000,1,Placed
+Emily Wilson,Female,25,Bachelor's,Computer Science,Massachusetts Institute of Technology,3.6,71000,1,Placed
+Jessica Lee,Female,26,Bachelor's,Computer Science,Carnegie Mellon University,3.6,74000,2,Placed
+Michael Martinez,Female,25,Bachelor's,Computer Science,Princeton University,3.7,74500,2,Placed
+Emily Brown,Female,24,Bachelor's,Computer Science,Stanford University,3.6,,,Not Placed
+John Martinez,Male,24,Bachelor's,Computer Science,Princeton University,3.8,72000,1,Placed
+Chris Garcia,Male,23,Bachelor's,Computer Science,Massachusetts Institute of Technology,3.7,,,Not Placed
+Michael Smith,Female,25,Bachelor's,Computer Science,Massachusetts Institute of Technology,3.5,73500,2,Placed
+Michael Johnson,Male,24,Bachelor's,Computer Science,University of Michigan,3.7,,,Not Placed
+Michael Johnson,Male,25,Bachelor's,Computer Science,University of Chicago,3.8,,,Not Placed
+Jessica Taylor,Female,23,Bachelor's,Computer Science,Harvard University,3.7,,,Not Placed
+Sarah Smith,Female,25,Bachelor's,Computer Science,Carnegie Mellon University,3.7,71500,1,Placed
+John Taylor,Male,23,Bachelor's,Computer Science,California Institute of Technology,3.6,,,Not Placed
+James Harlan,Female,24,Bachelor's,Computer Science,Yale University,3.8,75000,2,Placed
+Emily Harlan,Female,23,Bachelor's,Computer Science,"University of California, Berkeley",3.6,,,Not Placed
+Sarah Lee,Female,23,Bachelor's,Computer Science,Massachusetts Institute of Technology,3.5,,,Not Placed
+Sarah Brown,Female,26,Bachelor's,Computer Science,University of Chicago,3.7,71500,1,Placed
+Jane Lee,Male,23,Bachelor's,Computer Science,California Institute of Technology,3.8,,,Not Placed
+Jane Johnson,Male,25,Bachelor's,Computer Science,Massachusetts Institute of Technology,3.8,78000,3,Placed
+James Taylor,Female,25,Bachelor's,Computer Science,Princeton University,3.9,75500,2,Placed
+John Johnson,Male,23,Bachelor's,Computer Science,University of Michigan,3.5,,,Not Placed
+Sarah Wilson,Male,23,Bachelor's,Computer Science,University of Michigan,3.7,,,Not Placed
+Jane Wilson,Female,26,Bachelor's,Computer Science,Yale University,3.8,,,Not Placed
+John Johnson,Female,25,Bachelor's,Computer Science,Massachusetts Institute of Technology,3.6,,,Not Placed
+Emily Hernandez,Female,25,Bachelor's,Computer Science,Massachusetts Institute of Technology,3.8,,,Not Placed
+Jane Brown,Male,23,Bachelor's,Computer Science,Yale University,3.8,,,Not Placed
+Jane Harlan,Female,26,Bachelor's,Computer Science,Carnegie Mellon University,3.7,74500,2,Placed
+James Brown,Female,25,Bachelor's,Computer Science,Yale University,3.8,75000,2,Placed
+Amanda Wilson,Female,26,Bachelor's,Computer Science,University of Michigan,3.6,74000,2,Placed
+Jessica Smith,Male,23,Bachelor's,Computer Science,Carnegie Mellon University,3.4,70000,1,Placed
+James Johnson,Female,23,Bachelor's,Computer Science,Yale University,3.8,75000,2,Placed
+Michael Harlan,Male,26,Bachelor's,Computer Science,California Institute of Technology,3.4,76000,3,Placed
+Chris Johnson,Male,25,Bachelor's,Computer Science,Stanford University,3.7,,,Not Placed
+Emily Harlan,Female,23,Bachelor's,Computer Science,Carnegie Mellon University,3.5,,,Not Placed
+Amanda Johnson,Female,26,Bachelor's,Computer Science,California Institute of Technology,3.4,,,Not Placed
+John Martinez,Male,23,Bachelor's,Computer Science,University of Michigan,3.5,70500,1,Placed
+David Wilson,Male,25,Bachelor's,Computer Science,Stanford University,3.7,77500,3,Placed
+Amanda Smith,Female,23,Bachelor's,Computer Science,Massachusetts Institute of Technology,3.6,,,Not Placed
+Amanda Smith,Male,26,Bachelor's,Computer Science,Massachusetts Institute of Technology,3.6,74000,2,Placed
+John Hernandez,Female,23,Bachelor's,Computer Science,Stanford University,3.6,71000,1,Placed
+Sarah Taylor,Male,25,Bachelor's,Computer Science,University of Chicago,3.5,,,Not Placed
+Michael Taylor,Male,24,Bachelor's,Computer Science,University of Michigan,3.5,,,Not Placed
+Jessica Brown,Male,26,Bachelor's,Computer Science,Massachusetts Institute of Technology,3.4,,,Not Placed
+Chris Garcia,Female,26,Bachelor's,Computer Science,"University of California, Berkeley",3.5,76500,3,Placed
+Michael Smith,Female,23,Bachelor's,Computer Science,Carnegie Mellon University,3.7,71500,1,Placed
+Jane Johnson,Female,23,Bachelor's,Computer Science,Carnegie Mellon University,3.7,,,Not Placed
+Jane Garcia,Male,25,Bachelor's,Computer Science,Massachusetts Institute of Technology,3.5,73500,2,Placed
+Sarah Wilson,Female,26,Bachelor's,Computer Science,Yale University,3.4,,,Not Placed
+David Taylor,Female,26,Bachelor's,Computer Science,Massachusetts Institute of Technology,3.5,,,Not Placed
+Emily Smith,Male,23,Bachelor's,Computer Science,University of Michigan,3.4,,,Not Placed
+James Garcia,Male,26,Bachelor's,Computer Science,University of Chicago,3.6,,,Not Placed
+Michael Taylor,Male,23,Bachelor's,Computer Science,Harvard University,3.8,,,Not Placed
+Michael Brown,Female,23,Bachelor's,Computer Science,University of Chicago,3.6,,,Not Placed
+Sarah Martinez,Male,24,Bachelor's,Computer Science,University of Chicago,3.7,,,Not Placed
+John Garcia,Female,23,Bachelor's,Computer Science,"University of California, Berkeley",3.5,73500,2,Placed
+Michael Wilson,Male,23,Bachelor's,Computer Science,Massachusetts Institute of Technology,3.9,,,Not Placed
+James Hernandez,Male,26,Bachelor's,Computer Science,California Institute of Technology,3.4,70000,1,Placed
+James Smith,Female,24,Bachelor's,Computer Science,University of Chicago,3.4,76000,3,Placed
+Michael Smith,Male,25,Bachelor's,Computer Science,Yale University,3.5,70500,1,Placed
+Emily Lee,Female,23,Bachelor's,Computer Science,Yale University,3.6,77000,3,Placed
+Sarah Smith,Male,26,Bachelor's,Computer Science,Harvard University,3.7,,,Not Placed
+Michael Hernandez,Male,26,Bachelor's,Computer Science,Carnegie Mellon University,3.7,,,Not Placed
+David Wilson,Female,25,Bachelor's,Computer Science,Princeton University,3.6,,,Not Placed
+David Johnson,Male,26,Bachelor's,Computer Science,Harvard University,3.5,,,Not Placed
+John Harlan,Female,23,Bachelor's,Computer Science,"University of California, Berkeley",3.9,,,Not Placed
+Sarah Hernandez,Female,23,Bachelor's,Computer Science,University of Chicago,3.7,77500,3,Placed
+Michael Johnson,Female,24,Bachelor's,Computer Science,Carnegie Mellon University,3.9,78500,3,Placed
+Michael Hernandez,Female,23,Bachelor's,Computer Science,"University of California, Berkeley",3.6,71000,1,Placed
+James Hernandez,Female,25,Bachelor's,Computer Science,Princeton University,3.8,75000,2,Placed
+David Taylor,Male,23,Bachelor's,Computer Science,Stanford University,3.4,,,Not Placed
+Jane Lee,Female,25,Bachelor's,Computer Science,Yale University,3.6,,,Not Placed
+Jessica Smith,Female,24,Bachelor's,Computer Science,Princeton University,3.7,,,Not Placed
+Sarah Lee,Male,25,Bachelor's,Computer Science,California Institute of Technology,3.7,,,Not Placed
+Michael Brown,Female,24,Bachelor's,Computer Science,Stanford University,3.8,,,Not Placed
+Sarah Harlan,Male,25,Bachelor's,Computer Science,Harvard University,3.8,78000,3,Placed
+John Garcia,Female,26,Bachelor's,Computer Science,Carnegie Mellon University,3.6,74000,2,Placed
+John Garcia,Male,25,Bachelor's,Computer Science,Princeton University,3.6,74000,2,Placed
+Sarah Garcia,Female,23,Bachelor's,Computer Science,Carnegie Mellon University,3.9,,,Not Placed
+Jane Smith,Male,26,Bachelor's,Computer Science,University of Michigan,3.5,70500,1,Placed
+Michael Brown,Male,26,Bachelor's,Computer Science,Carnegie Mellon University,3.6,,,Not Placed
+Emily Garcia,Female,23,Bachelor's,Computer Science,Princeton University,3.7,74500,2,Placed
+James Martinez,Male,25,Bachelor's,Computer Science,Yale University,3.5,,,Not Placed
+John Lee,Female,24,Bachelor's,Computer Science,California Institute of Technology,3.9,78500,3,Placed
+Chris Johnson,Male,24,Bachelor's,Computer Science,California Institute of Technology,3.7,,,Not Placed
+Amanda Harlan,Male,24,Bachelor's,Computer Science,Massachusetts Institute of Technology,3.7,,,Not Placed
+James Lee,Female,23,Bachelor's,Computer Science,Princeton University,3.6,,,Not Placed
+Sarah Taylor,Female,26,Bachelor's,Computer Science,Carnegie Mellon University,3.6,74000,2,Placed
+Jessica Hernandez,Male,23,Bachelor's,Computer Science,Princeton University,3.5,,,Not Placed
+Michael Johnson,Male,23,Bachelor's,Computer Science,Stanford University,3.8,75000,2,Placed
+David Taylor,Female,26,Bachelor's,Computer Science,Yale University,3.6,,,Not Placed
+Sarah Martinez,Female,23,Bachelor's,Computer Science,University of Michigan,3.4,,,Not Placed
+Jane Harlan,Female,26,Bachelor's,Computer Science,University of Michigan,3.5,,,Not Placed
+Amanda Smith,Female,25,Bachelor's,Computer Science,Massachusetts Institute of Technology,3.7,74500,2,Placed
+Amanda Garcia,Female,24,Bachelor's,Computer Science,Princeton University,3.7,,,Not Placed
+James Garcia,Male,25,Bachelor's,Computer Science,Princeton University,3.4,70000,1,Placed
+David Garcia,Female,23,Bachelor's,Computer Science,University of Michigan,3.6,,,Not Placed
+Michael Harlan,Male,25,Bachelor's,Computer Science,Yale University,3.4,76000,3,Placed
+James Brown,Female,26,Bachelor's,Computer Science,University of Chicago,3.4,76000,3,Placed
+Amanda Wilson,Female,26,Bachelor's,Computer Science,"University of California, Berkeley",3.7,77500,3,Placed
+Amanda Smith,Male,23,Bachelor's,Computer Science,University of Chicago,3.4,,,Not Placed
+James Smith,Male,24,Bachelor's,Computer Science,Carnegie Mellon University,3.9,,,Not Placed
+Emily Brown,Male,23,Bachelor's,Computer Science,Stanford University,3.5,73500,2,Placed
+David Garcia,Male,25,Bachelor's,Computer Science,Princeton University,3.8,,,Not Placed
+John Garcia,Female,25,Bachelor's,Computer Science,Carnegie Mellon University,3.6,,,Not Placed
+James Johnson,Female,25,Bachelor's,Computer Science,Harvard University,3.9,75500,2,Placed
+Jessica Brown,Male,26,Bachelor's,Computer Science,Stanford University,3.8,75000,2,Placed
+Jane Lee,Female,23,Bachelor's,Computer Science,Harvard University,3.9,72500,1,Placed
+Emily Lee,Female,23,Bachelor's,Computer Science,Harvard University,3.4,70000,1,Placed
+Amanda Brown,Female,24,Bachelor's,Computer Science,Massachusetts Institute of Technology,3.7,71500,1,Placed
+Emily Martinez,Female,25,Bachelor's,Computer Science,Carnegie Mellon University,3.4,70000,1,Placed
+David Hernandez,Female,26,Bachelor's,Computer Science,"University of California, Berkeley",3.6,77000,3,Placed
+Emily Wilson,Female,25,Bachelor's,Computer Science,"University of California, Berkeley",3.5,73500,2,Placed
+Emily Brown,Female,24,Bachelor's,Computer Science,Massachusetts Institute of Technology,3.8,,,Not Placed
+Chris Wilson,Female,25,Bachelor's,Computer Science,Princeton University,3.7,,,Not Placed
+David Hernandez,Male,23,Bachelor's,Computer Science,University of Michigan,3.8,78000,3,Placed
+Emily Johnson,Female,23,Bachelor's,Computer Science,Harvard University,3.5,70500,1,Placed
+James Wilson,Female,24,Bachelor's,Computer Science,Princeton University,3.6,77000,3,Placed
+Michael Hernandez,Male,24,Bachelor's,Computer Science,University of Chicago,3.6,74000,2,Placed
+James Taylor,Female,23,Bachelor's,Computer Science,University of Chicago,3.6,74000,2,Placed
+Sarah Hernandez,Male,25,Bachelor's,Computer Science,Stanford University,3.7,,,Not Placed
+Emily Hernandez,Female,26,Bachelor's,Computer Science,Harvard University,3.9,,,Not Placed
+Amanda Garcia,Female,23,Bachelor's,Computer Science,California Institute of Technology,3.6,74000,2,Placed
+Amanda Brown,Male,24,Bachelor's,Computer Science,Princeton University,3.8,,,Not Placed
+Michael Harlan,Female,24,Bachelor's,Computer Science,Carnegie Mellon University,3.4,,,Not Placed
+John Harlan,Male,23,Bachelor's,Computer Science,Massachusetts Institute of Technology,3.5,76500,3,Placed
+John Martinez,Female,24,Bachelor's,Computer Science,Yale University,3.6,77000,3,Placed
+Michael Smith,Female,24,Bachelor's,Computer Science,"University of California, Berkeley",3.8,,,Not Placed
+Jessica Hernandez,Male,25,Bachelor's,Computer Science,Harvard University,3.7,77500,3,Placed
+Jane Johnson,Male,26,Bachelor's,Computer Science,Carnegie Mellon University,3.5,,,Not Placed
+Chris Harlan,Female,23,Bachelor's,Computer Science,Massachusetts Institute of Technology,3.4,73000,2,Placed
+Jane Wilson,Male,26,Bachelor's,Computer Science,Stanford University,3.7,71500,1,Placed
+Jessica Johnson,Female,23,Bachelor's,Computer Science,Harvard University,3.4,,,Not Placed
+Michael Hernandez,Female,24,Bachelor's,Computer Science,Massachusetts Institute of Technology,3.5,73500,2,Placed
+James Wilson,Female,26,Bachelor's,Computer Science,Yale University,3.4,,,Not Placed
+Chris Brown,Male,24,Bachelor's,Computer Science,University of Michigan,3.8,,,Not Placed
+Michael Garcia,Male,26,Bachelor's,Computer Science,Stanford University,3.8,75000,2,Placed
+David Brown,Male,24,Bachelor's,Computer Science,Harvard University,3.4,70000,1,Placed
+Amanda Brown,Male,23,Bachelor's,Computer Science,Yale University,3.8,75000,2,Placed
+Chris Brown,Male,24,Bachelor's,Computer Science,Yale University,3.5,,,Not Placed
+Sarah Johnson,Female,26,Bachelor's,Computer Science,Stanford University,3.7,77500,3,Placed
+Sarah Wilson,Male,23,Bachelor's,Computer Science,Massachusetts Institute of Technology,3.4,76000,3,Placed
+John Garcia,Female,23,Bachelor's,Computer Science,Yale University,3.8,,,Not Placed
+Emily Smith,Male,24,Bachelor's,Computer Science,Princeton University,3.5,,,Not Placed
+Sarah Hernandez,Male,25,Bachelor's,Computer Science,University of Chicago,3.7,77500,3,Placed
+Jessica Hernandez,Male,25,Bachelor's,Computer Science,Carnegie Mellon University,3.5,70500,1,Placed
+Emily Hernandez,Male,26,Bachelor's,Computer Science,Massachusetts Institute of Technology,3.7,77500,3,Placed
+Chris Johnson,Female,23,Bachelor's,Computer Science,Harvard University,3.9,,,Not Placed
+Amanda Taylor,Female,25,Bachelor's,Computer Science,Yale University,3.7,74500,2,Placed
+Emily Harlan,Male,26,Bachelor's,Computer Science,Carnegie Mellon University,3.6,,,Not Placed
+Amanda Smith,Female,25,Bachelor's,Computer Science,California Institute of Technology,3.8,,,Not Placed
+Chris Johnson,Female,25,Bachelor's,Computer Science,Stanford University,3.9,,,Not Placed
+Jessica Smith,Male,26,Bachelor's,Computer Science,Carnegie Mellon University,3.6,71000,1,Placed
+Jane Smith,Female,23,Bachelor's,Computer Science,University of Chicago,3.7,,,Not Placed
+David Brown,Male,26,Bachelor's,Computer Science,California Institute of Technology,3.6,77000,3,Placed
+David Taylor,Male,23,Bachelor's,Computer Science,Stanford University,3.7,,,Not Placed
+Michael Smith,Female,24,Bachelor's,Computer Science,"University of California, Berkeley",3.8,78000,3,Placed
+Emily Hernandez,Female,25,Bachelor's,Computer Science,Princeton University,3.5,,,Not Placed
+Jane Garcia,Male,25,Bachelor's,Computer Science,Carnegie Mellon University,3.9,,,Not Placed
+Amanda Harlan,Male,24,Bachelor's,Computer Science,Yale University,3.4,76000,3,Placed
+Chris Smith,Female,23,Bachelor's,Computer Science,Princeton University,3.6,,,Not Placed
+Sarah Wilson,Female,24,Bachelor's,Computer Science,Yale University,3.5,,,Not Placed
+Jessica Taylor,Female,23,Bachelor's,Computer Science,Princeton University,3.6,,,Not Placed
+Michael Brown,Male,23,Bachelor's,Computer Science,"University of California, Berkeley",3.8,78000,3,Placed
+Chris Hernandez,Male,24,Bachelor's,Computer Science,California Institute of Technology,3.7,,,Not Placed
+Jessica Smith,Female,25,Bachelor's,Computer Science,Princeton University,3.6,,,Not Placed
+James Martinez,Female,23,Bachelor's,Computer Science,California Institute of Technology,3.6,77000,3,Placed
+Jane Hernandez,Male,23,Bachelor's,Computer Science,Massachusetts Institute of Technology,3.7,71500,1,Placed
+Amanda Brown,Female,24,Bachelor's,Computer Science,University of Chicago,3.4,76000,3,Placed
+Amanda Johnson,Male,24,Bachelor's,Computer Science,Stanford University,3.4,,,Not Placed
+David Lee,Female,24,Bachelor's,Computer Science,Carnegie Mellon University,3.5,73500,2,Placed
+Jessica Martinez,Male,26,Bachelor's,Computer Science,Stanford University,3.9,75500,2,Placed
+Amanda Lee,Female,25,Bachelor's,Computer Science,Yale University,3.5,,,Not Placed
+Michael Johnson,Female,23,Bachelor's,Computer Science,Yale University,3.5,,,Not Placed
+David Garcia,Male,24,Bachelor's,Computer Science,University of Michigan,3.8,78000,3,Placed
+Emily Hernandez,Female,24,Bachelor's,Computer Science,Massachusetts Institute of Technology,3.6,,,Not Placed
+Emily Brown,Male,26,Bachelor's,Computer Science,"University of California, Berkeley",3.9,75500,2,Placed
+Jane Harlan,Male,25,Bachelor's,Computer Science,University of Chicago,3.6,,,Not Placed
+David Johnson,Female,26,Bachelor's,Computer Science,California Institute of Technology,3.6,,,Not Placed
+John Harlan,Female,24,Bachelor's,Computer Science,Yale University,3.6,,,Not Placed
+Michael Martinez,Female,23,Bachelor's,Computer Science,Princeton University,3.5,,,Not Placed
+Amanda Lee,Male,23,Bachelor's,Computer Science,California Institute of Technology,3.6,,,Not Placed
+Emily Garcia,Male,24,Bachelor's,Computer Science,Yale University,3.8,,,Not Placed
+Jane Brown,Male,26,Bachelor's,Computer Science,Princeton University,3.7,74500,2,Placed
+Sarah Hernandez,Male,26,Bachelor's,Computer Science,Yale University,3.7,,,Not Placed
+James Smith,Male,23,Bachelor's,Computer Science,University of Chicago,3.8,72000,1,Placed
+Jane Taylor,Female,24,Bachelor's,Computer Science,Stanford University,3.5,,,Not Placed
+Jessica Martinez,Female,24,Bachelor's,Computer Science,Princeton University,3.5,76500,3,Placed
+David Martinez,Male,25,Bachelor's,Computer Science,"University of California, Berkeley",3.7,,,Not Placed
+Chris Johnson,Female,23,Bachelor's,Computer Science,Massachusetts Institute of Technology,3.8,,,Not Placed
+Jessica Lee,Male,23,Bachelor's,Computer Science,Yale University,3.6,,,Not Placed
+Jane Hernandez,Female,26,Bachelor's,Computer Science,"University of California, Berkeley",3.6,77000,3,Placed
+Jane Lee,Male,23,Bachelor's,Computer Science,University of Chicago,3.6,,,Not Placed
+Chris Taylor,Female,25,Bachelor's,Computer Science,Harvard University,3.6,,,Not Placed
+Jane Garcia,Female,23,Bachelor's,Computer Science,California Institute of Technology,3.5,76500,3,Placed
+John Johnson,Female,26,Bachelor's,Computer Science,Stanford University,3.8,75000,2,Placed
+Sarah Harlan,Male,23,Bachelor's,Computer Science,University of Chicago,3.6,74000,2,Placed
+Emily Garcia,Female,26,Bachelor's,Computer Science,Stanford University,3.8,75000,2,Placed
+Jane Harlan,Male,24,Bachelor's,Computer Science,Carnegie Mellon University,3.5,73500,2,Placed
+Sarah Brown,Male,26,Bachelor's,Computer Science,Harvard University,3.7,74500,2,Placed
+David Wilson,Female,23,Bachelor's,Computer Science,Princeton University,3.6,71000,1,Placed
+Sarah Harlan,Male,25,Bachelor's,Computer Science,"University of California, Berkeley",3.4,73000,2,Placed
+Amanda Hernandez,Female,25,Bachelor's,Computer Science,Stanford University,3.5,,,Not Placed
+David Smith,Male,26,Bachelor's,Computer Science,Massachusetts Institute of Technology,3.7,74500,2,Placed
+John Taylor,Male,25,Bachelor's,Computer Science,Stanford University,3.8,78000,3,Placed
+John Garcia,Female,26,Bachelor's,Computer Science,University of Michigan,3.8,75000,2,Placed
+James Martinez,Female,24,Bachelor's,Computer Science,University of Chicago,3.8,,,Not Placed
+David Martinez,Female,24,Bachelor's,Computer Science,California Institute of Technology,3.8,78000,3,Placed
+John Hernandez,Male,23,Bachelor's,Computer Science,Princeton University,3.7,,,Not Placed
+John Brown,Male,23,Bachelor's,Computer Science,"University of California, Berkeley",3.5,,,Not Placed
+Jessica Hernandez,Female,24,Bachelor's,Computer Science,Massachusetts Institute of Technology,3.6,,,Not Placed
+Jane Martinez,Female,26,Bachelor's,Computer Science,Massachusetts Institute of Technology,3.6,,,Not Placed
+Michael Smith,Male,26,Bachelor's,Computer Science,Yale University,3.7,71500,1,Placed
+Chris Garcia,Female,24,Bachelor's,Computer Science,Harvard University,3.8,72000,1,Placed
+Sarah Smith,Female,23,Bachelor's,Computer Science,"University of California, Berkeley",3.6,,,Not Placed
+Michael Brown,Male,24,Bachelor's,Computer Science,California Institute of Technology,3.6,71000,1,Placed
+Emily Hernandez,Female,23,Bachelor's,Computer Science,Massachusetts Institute of Technology,3.5,,,Not Placed
+James Johnson,Male,25,Bachelor's,Computer Science,Stanford University,3.6,74000,2,Placed
+Emily Martinez,Male,24,Bachelor's,Computer Science,Carnegie Mellon University,3.4,,,Not Placed
+Jane Hernandez,Male,25,Bachelor's,Computer Science,University of Michigan,3.5,,,Not Placed
+Chris Brown,Female,25,Bachelor's,Computer Science,California Institute of Technology,3.7,77500,3,Placed
+Emily Garcia,Male,24,Bachelor's,Computer Science,"University of California, Berkeley",3.6,74000,2,Placed
+John Lee,Female,25,Bachelor's,Computer Science,University of Michigan,3.8,75000,2,Placed
+David Smith,Female,23,Bachelor's,Computer Science,Massachusetts Institute of Technology,3.7,,,Not Placed
+Michael Hernandez,Female,26,Bachelor's,Computer Science,Yale University,3.5,,,Not Placed
+Michael Johnson,Male,23,Bachelor's,Computer Science,University of Michigan,3.8,,,Not Placed
+Michael Taylor,Female,26,Bachelor's,Computer Science,Harvard University,3.6,71000,1,Placed
+James Smith,Male,24,Bachelor's,Computer Science,University of Michigan,3.7,74500,2,Placed
+Sarah Garcia,Female,23,Bachelor's,Computer Science,Yale University,3.8,78000,3,Placed
+Amanda Hernandez,Female,25,Bachelor's,Computer Science,Yale University,3.8,,,Not Placed
+Amanda Hernandez,Female,26,Bachelor's,Computer Science,Yale University,3.7,,,Not Placed
+David Garcia,Male,25,Bachelor's,Computer Science,"University of California, Berkeley",3.9,72500,1,Placed
+David Taylor,Female,25,Bachelor's,Computer Science,University of Chicago,3.6,74000,2,Placed
+Michael Taylor,Male,23,Bachelor's,Computer Science,University of Chicago,3.6,71000,1,Placed
+David Martinez,Female,26,Bachelor's,Computer Science,Massachusetts Institute of Technology,3.7,71500,1,Placed
+David Garcia,Female,26,Bachelor's,Computer Science,Princeton University,3.8,,,Not Placed
+John Wilson,Female,26,Bachelor's,Computer Science,Princeton University,3.7,71500,1,Placed
+Jane Martinez,Female,26,Bachelor's,Computer Science,Massachusetts Institute of Technology,3.8,72000,1,Placed
+Amanda Harlan,Male,24,Bachelor's,Computer Science,University of Michigan,3.7,,,Not Placed
+Jessica Wilson,Male,23,Bachelor's,Computer Science,Stanford University,3.6,74000,2,Placed
+Emily Hernandez,Male,26,Bachelor's,Computer Science,University of Michigan,3.5,,,Not Placed
+Michael Smith,Female,25,Bachelor's,Computer Science,Princeton University,3.5,73500,2,Placed
+Sarah Wilson,Female,25,Bachelor's,Computer Science,University of Chicago,3.6,71000,1,Placed
+John Garcia,Female,25,Bachelor's,Computer Science,Harvard University,3.4,,,Not Placed
+Jane Taylor,Female,24,Bachelor's,Computer Science,Yale University,3.4,73000,2,Placed
+John Smith,Male,25,Bachelor's,Computer Science,Princeton University,3.8,72000,1,Placed
+John Wilson,Male,24,Bachelor's,Computer Science,University of Michigan,3.7,,,Not Placed
+Sarah Smith,Female,25,Bachelor's,Computer Science,Carnegie Mellon University,3.6,74000,2,Placed
+James Garcia,Male,23,Bachelor's,Computer Science,Massachusetts Institute of Technology,3.4,,,Not Placed
+Emily Johnson,Male,25,Bachelor's,Computer Science,Carnegie Mellon University,3.5,,,Not Placed
+Jessica Brown,Male,24,Bachelor's,Computer Science,Princeton University,3.9,72500,1,Placed
+David Garcia,Female,25,Bachelor's,Computer Science,Massachusetts Institute of Technology,3.7,77500,3,Placed
+James Lee,Female,25,Bachelor's,Computer Science,Yale University,3.9,72500,1,Placed
+James Hernandez,Female,24,Bachelor's,Computer Science,Princeton University,3.7,,,Not Placed
+Emily Garcia,Male,26,Bachelor's,Computer Science,Yale University,3.5,,,Not Placed
+Sarah Martinez,Female,25,Bachelor's,Computer Science,University of Michigan,3.9,,,Not Placed
+John Taylor,Female,24,Bachelor's,Computer Science,Carnegie Mellon University,3.5,76500,3,Placed
+Jane Smith,Male,24,Bachelor's,Computer Science,California Institute of Technology,3.8,,,Not Placed
+John Harlan,Female,24,Bachelor's,Computer Science,Harvard University,3.8,,,Not Placed
+Emily Garcia,Female,23,Bachelor's,Computer Science,Stanford University,3.8,,,Not Placed
+Emily Hernandez,Female,26,Bachelor's,Computer Science,California Institute of Technology,3.5,70500,1,Placed
+Jessica Johnson,Male,25,Bachelor's,Computer Science,University of Chicago,3.8,,,Not Placed
+Emily Brown,Female,25,Bachelor's,Computer Science,Stanford University,3.5,76500,3,Placed
+James Garcia,Male,26,Bachelor's,Computer Science,Stanford University,3.7,,,Not Placed
+Sarah Martinez,Female,24,Bachelor's,Computer Science,"University of California, Berkeley",3.5,,,Not Placed
+James Martinez,Female,24,Bachelor's,Computer Science,Harvard University,3.5,76500,3,Placed
+David Harlan,Female,25,Bachelor's,Computer Science,Princeton University,3.6,71000,1,Placed
+Emily Lee,Female,26,Bachelor's,Computer Science,Stanford University,3.6,,,Not Placed
+Sarah Wilson,Female,26,Bachelor's,Computer Science,California Institute of Technology,3.8,72000,1,Placed
+Jessica Taylor,Male,26,Bachelor's,Computer Science,Harvard University,3.8,,,Not Placed
+Sarah Harlan,Female,23,Bachelor's,Computer Science,Harvard University,3.4,,,Not Placed
+Emily Lee,Male,24,Bachelor's,Computer Science,Yale University,3.9,72500,1,Placed
+Jane Hernandez,Male,23,Bachelor's,Computer Science,Princeton University,3.8,78000,3,Placed
+John Taylor,Male,24,Bachelor's,Computer Science,Massachusetts Institute of Technology,3.6,,,Not Placed
+James Hernandez,Male,24,Bachelor's,Computer Science,"University of California, Berkeley",3.5,76500,3,Placed
+Emily Lee,Female,23,Bachelor's,Computer Science,Massachusetts Institute of Technology,3.5,,,Not Placed
+Sarah Smith,Female,26,Bachelor's,Computer Science,Carnegie Mellon University,3.8,78000,3,Placed
+Jessica Lee,Female,25,Bachelor's,Computer Science,"University of California, Berkeley",3.6,,,Not Placed
+John Johnson,Female,25,Bachelor's,Computer Science,University of Chicago,3.7,71500,1,Placed
+Amanda Hernandez,Female,24,Bachelor's,Computer Science,Yale University,3.6,,,Not Placed
+John Garcia,Female,24,Bachelor's,Computer Science,Carnegie Mellon University,3.4,70000,1,Placed
+David Hernandez,Male,26,Bachelor's,Computer Science,Stanford University,3.8,,,Not Placed
+David Hernandez,Male,25,Bachelor's,Computer Science,University of Michigan,3.4,,,Not Placed
+Chris Martinez,Female,25,Bachelor's,Computer Science,University of Michigan,3.6,,,Not Placed
+Jessica Harlan,Female,23,Bachelor's,Computer Science,Massachusetts Institute of Technology,3.8,75000,2,Placed
+Sarah Hernandez,Male,25,Bachelor's,Computer Science,Stanford University,3.4,,,Not Placed
+Jessica Garcia,Male,26,Bachelor's,Computer Science,Carnegie Mellon University,3.8,78000,3,Placed
+Emily Harlan,Female,26,Bachelor's,Computer Science,Stanford University,3.7,,,Not Placed
+Michael Brown,Female,26,Bachelor's,Computer Science,Stanford University,3.5,,,Not Placed
+John Johnson,Female,26,Bachelor's,Computer Science,Harvard University,3.7,74500,2,Placed
+Amanda Harlan,Male,25,Bachelor's,Computer Science,Carnegie Mellon University,3.4,,,Not Placed
+John Smith,Male,24,Bachelor's,Computer Science,Carnegie Mellon University,3.5,76500,3,Placed
+David Hernandez,Female,24,Bachelor's,Computer Science,California Institute of Technology,3.6,,,Not Placed
+Michael Taylor,Male,25,Bachelor's,Computer Science,Carnegie Mellon University,3.6,77000,3,Placed
+Emily Hernandez,Male,23,Bachelor's,Computer Science,Yale University,3.7,77500,3,Placed
+James Harlan,Male,24,Bachelor's,Computer Science,University of Michigan,3.9,75500,2,Placed
+James Taylor,Male,23,Bachelor's,Computer Science,Princeton University,3.8,72000,1,Placed
+Sarah Garcia,Female,24,Bachelor's,Computer Science,Yale University,3.5,70500,1,Placed
+Chris Smith,Female,24,Bachelor's,Computer Science,University of Chicago,3.7,,,Not Placed
+Sarah Smith,Female,25,Bachelor's,Computer Science,"University of California, Berkeley",3.7,,,Not Placed
+James Smith,Male,24,Bachelor's,Computer Science,University of Chicago,3.4,76000,3,Placed
+Amanda Brown,Male,25,Bachelor's,Computer Science,Yale University,3.6,77000,3,Placed
+Chris Lee,Male,23,Bachelor's,Computer Science,Princeton University,3.8,78000,3,Placed
+Jessica Hernandez,Male,24,Bachelor's,Computer Science,"University of California, Berkeley",3.4,76000,3,Placed
+Chris Lee,Male,24,Bachelor's,Computer Science,Carnegie Mellon University,3.7,,,Not Placed
+Jane Garcia,Female,23,Bachelor's,Computer Science,Yale University,3.5,,,Not Placed
+Jane Hernandez,Female,23,Bachelor's,Computer Science,University of Michigan,3.6,74000,2,Placed
+Sarah Garcia,Male,25,Bachelor's,Computer Science,University of Michigan,3.9,75500,2,Placed
+Jessica Martinez,Female,26,Bachelor's,Computer Science,Princeton University,3.8,,,Not Placed
+Jessica Brown,Female,26,Bachelor's,Computer Science,University of Chicago,3.5,70500,1,Placed
+James Lee,Male,26,Bachelor's,Computer Science,Harvard University,3.9,,,Not Placed
+John Brown,Female,26,Bachelor's,Computer Science,California Institute of Technology,3.5,73500,2,Placed
+Michael Martinez,Male,25,Bachelor's,Computer Science,Harvard University,3.8,75000,2,Placed
+Jessica Johnson,Male,23,Bachelor's,Computer Science,Stanford University,3.6,74000,2,Placed
+Emily Johnson,Male,24,Bachelor's,Computer Science,California Institute of Technology,3.4,76000,3,Placed
+James Garcia,Female,23,Bachelor's,Computer Science,Massachusetts Institute of Technology,3.8,78000,3,Placed
+Jane Lee,Female,26,Bachelor's,Computer Science,"University of California, Berkeley",3.5,,,Not Placed
+John Brown,Male,25,Bachelor's,Computer Science,Harvard University,3.6,,,Not Placed
+Emily Garcia,Male,26,Bachelor's,Computer Science,"University of California, Berkeley",3.7,77500,3,Placed
+James Wilson,Female,23,Bachelor's,Computer Science,California Institute of Technology,3.6,,,Not Placed
+James Garcia,Male,23,Bachelor's,Computer Science,University of Chicago,3.6,,,Not Placed
+David Taylor,Female,24,Bachelor's,Computer Science,Princeton University,3.6,74000,2,Placed
+David Lee,Male,23,Bachelor's,Computer Science,Princeton University,3.5,73500,2,Placed
+John Hernandez,Female,23,Bachelor's,Computer Science,Carnegie Mellon University,3.7,,,Not Placed
+Jessica Smith,Female,26,Bachelor's,Computer Science,Princeton University,3.8,72000,1,Placed
+James Wilson,Female,25,Bachelor's,Computer Science,California Institute of Technology,3.9,,,Not Placed
+Sarah Johnson,Male,23,Bachelor's,Computer Science,"University of California, Berkeley",3.6,71000,1,Placed
+Emily Johnson,Female,25,Bachelor's,Computer Science,Princeton University,3.9,75500,2,Placed
+Michael Martinez,Male,23,Bachelor's,Computer Science,Stanford University,3.5,76500,3,Placed
+Sarah Wilson,Female,25,Bachelor's,Computer Science,University of Chicago,3.7,,,Not Placed
+Chris Smith,Female,23,Bachelor's,Computer Science,Harvard University,3.5,,,Not Placed
+John Lee,Male,24,Bachelor's,Computer Science,University of Chicago,3.4,76000,3,Placed
+James Harlan,Male,25,Bachelor's,Computer Science,"University of California, Berkeley",3.9,78500,3,Placed
+David Taylor,Female,24,Bachelor's,Computer Science,University of Chicago,3.5,,,Not Placed
+Emily Johnson,Male,26,Bachelor's,Computer Science,California Institute of Technology,3.8,,,Not Placed
+Chris Johnson,Male,26,Bachelor's,Computer Science,Carnegie Mellon University,3.8,72000,1,Placed
+James Wilson,Male,24,Bachelor's,Computer Science,Massachusetts Institute of Technology,3.8,75000,2,Placed
+Michael Taylor,Male,24,Bachelor's,Computer Science,University of Michigan,3.5,73500,2,Placed
+Jessica Taylor,Female,26,Bachelor's,Computer Science,California Institute of Technology,3.6,,,Not Placed
+David Wilson,Male,23,Bachelor's,Computer Science,Princeton University,3.4,,,Not Placed
+Emily Hernandez,Male,23,Bachelor's,Computer Science,Massachusetts Institute of Technology,3.5,,,Not Placed
+Chris Smith,Female,23,Bachelor's,Computer Science,Stanford University,3.8,,,Not Placed
+Chris Smith,Male,24,Bachelor's,Computer Science,Yale University,3.5,76500,3,Placed
+John Smith,Female,26,Bachelor's,Computer Science,University of Chicago,3.7,71500,1,Placed
+Sarah Smith,Male,25,Bachelor's,Computer Science,Stanford University,3.5,,,Not Placed
+Jane Smith,Male,24,Bachelor's,Computer Science,Carnegie Mellon University,3.5,70500,1,Placed
+David Smith,Female,25,Bachelor's,Computer Science,Carnegie Mellon University,3.8,75000,2,Placed
+Michael Lee,Male,26,Bachelor's,Computer Science,University of Chicago,3.7,,,Not Placed
+Emily Lee,Female,26,Bachelor's,Computer Science,Massachusetts Institute of Technology,3.7,71500,1,Placed
+Jessica Taylor,Female,24,Bachelor's,Computer Science,Stanford University,3.6,77000,3,Placed
+John Smith,Female,24,Bachelor's,Computer Science,Carnegie Mellon University,3.8,,,Not Placed
+Jessica Garcia,Female,25,Bachelor's,Computer Science,Carnegie Mellon University,3.7,,,Not Placed
+Amanda Smith,Female,26,Bachelor's,Computer Science,University of Chicago,3.7,77500,3,Placed
+Emily Smith,Male,26,Bachelor's,Computer Science,University of Michigan,3.6,74000,2,Placed
+David Johnson,Female,23,Bachelor's,Computer Science,Harvard University,3.5,76500,3,Placed
+Amanda Hernandez,Female,24,Bachelor's,Computer Science,University of Michigan,3.9,,,Not Placed
+Sarah Wilson,Female,25,Bachelor's,Computer Science,University of Chicago,3.8,,,Not Placed
+Emily Hernandez,Male,25,Bachelor's,Computer Science,Harvard University,3.4,76000,3,Placed

@@ -3,5 +3,5 @@ pandas
 matplotlib
 seaborn
 plotly
-scikit-learn = 1.3
+scikit-learn==1.3
 requests
